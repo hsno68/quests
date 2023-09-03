@@ -16,10 +16,13 @@ h1 {
   margin: 30px;
 }
 
-li {
+ul {
   list-style-type: none;
   text-align: center;
   font-size: 32px;
+}
+
+li {
   margin: 20px;
 }
 
